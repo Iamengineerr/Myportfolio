@@ -1,0 +1,53 @@
+{
+    "experiences" : [
+        {
+            "company":  "ABC",
+            "link": "/",
+            "title": "Software Developer",
+            "duration": "April 2022 - Feb 2023",
+            "desc": [
+                "hello jhfkjsdh kjdfhdjkf khsdfkj kjshkjf ",
+                "dfbjhfhj jhfkj khfskj khsf kjlkfs yeuiryi "
+            ]
+        },
+        {
+            "company":  "DES",
+            "link": "/",
+            "title": "Software Developer",
+            "duration": "April 2022 - Feb 2023",
+            "desc": [
+                "hello jhfkjsdh kjdfhdjkf khsdfkj kjshkjf ",
+                "dfbjhfhj jhfkj khfskj khsf kjlkfs yeuiryi "
+            ]
+        },
+        {
+            "company":  "EFG",
+            "link": "/",
+            "title": "Software Developer",
+            "duration": "April 2022 - Feb 2023",
+            "desc": [
+                "hello jhfkjsdh kjdfhdjkf khsdfkj kjshkjf ",
+                "dfbjhfhj jhfkj khfskj khsf kjlkfs yeuiryi "
+            ]
+        }
+        
+    ],
+    "projects": [
+        {
+            "title": "Quiz App",
+            "image": "img.png",
+            "desc": "Apps are here",
+            "skills": ["React", "Express", "MongoDB"],
+            "github": "/",
+            "link": "/"
+        },
+        {
+            "title": "Ecommerce App",
+            "image": "img.png",
+            "desc": "Apps are here",
+            "skills": ["Vue", "Express", "MongoDB"],
+            "github": "/",
+            "link": "/"
+        }
+    ]
+}
